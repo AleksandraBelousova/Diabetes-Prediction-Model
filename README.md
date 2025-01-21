@@ -4,7 +4,7 @@
 - Hyperparameter tuning: RandomisedSearchCV to fine-tune model parameters.
 - Performance Metrics: Evaluation with ROC-AUC scoring and comprehensive feature importance metrics.
 ### Technical Stack Requirements:
-- Python 3.x
+- Python
 - Pandas
 - Matplotlib
 - Seaborn
